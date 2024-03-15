@@ -1,4 +1,4 @@
-![image](https://github.com/anhshidou/HTB2024/assets/120787381/07bf5492-8fc0-422c-b1d8-004072d0a14f)At this question, it kinda hard but I still can solve it hehe
+At this question, it kinda hard but I still can solve it hehe
 
 ![image](https://github.com/anhshidou/HTB2024/assets/120787381/ae1c28bb-f3f3-4d4a-9b6d-eacd22fd8f2a)
 
