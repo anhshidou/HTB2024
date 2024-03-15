@@ -21,3 +21,17 @@ We can see there are a lot of EML file, pick random one to open, we will see thi
 ![image](https://github.com/anhshidou/HTB2024/assets/120787381/768cc9fc-d195-4d03-926d-2712d1387263)
 
 ![image](https://github.com/anhshidou/HTB2024/assets/120787381/a8a9830b-f28e-4531-b92c-0e80dca21864)
+
+Extract all files and we will see
+
+![image](https://github.com/anhshidou/HTB2024/assets/120787381/5d2abb7a-311c-4799-b98e-84b4563c59dc)
+
+Combine them into 1 file by using this command
+
+![image](https://github.com/anhshidou/HTB2024/assets/120787381/f2a288d3-9ae7-48aa-9f32-df4d4eb05138)
+
+Scroll down and take the flag
+
+![image](https://github.com/anhshidou/HTB2024/assets/120787381/44d9db22-be7b-4ea5-8bf1-6ddf1e205882)
+
+Flag: HTB{Th3Phr3aksReadyT0Att4ck}
